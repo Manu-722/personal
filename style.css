@@ -5,7 +5,7 @@
 }
 body {
     font-family: 'Times New Roman', Times, serif;
-    background-color: rgb(90, 201, 62);
+    background-color: rgb(62, 164, 201);
     color: rgb(255, 255, 255);
 }
 
@@ -13,7 +13,7 @@ header {
     text-align: center;
 }
 .navbar {
-    background-color: rgb(81, 129, 72);
+    background-color: rgb(80, 129, 72);
     padding: 15px 0;
 }
 .navbar .container {
